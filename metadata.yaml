@@ -1,0 +1,33 @@
+_repo: Ethel-Morton-and-the-Christmas-Ship_36007
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Smith, Mabell S. C. (Mabell Shippie Clarke)
+    aliases:
+    - Pelton, Mabell Shippie Clarke
+    - Smith, Mabell Shippie Clarke
+    birthdate: 1864
+    deathdate: 1942
+    gutenberg_agent_id: '6118'
+    url: http://www.gutenberg.org/2009/agents/6118
+description: ''
+gutenberg_issued: '2011-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36007'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young women -- Social life and customs -- Juvenile fiction'
+- !lcsh 'World War, 1914-1918 -- United States -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Cooking -- Juvenile fiction'
+- !lcsh 'Handicraft -- Juvenile fiction'
+- !lcsh 'Entertaining -- Juvenile fiction'
+title: Ethel Morton and the Christmas Ship
+url: http://www.gutenberg.org/ebooks/36007
